@@ -2,5 +2,5 @@
 
 ```
 docker build -t azprolog .
-docker run -it azprolog
+docker run -it --rm azprolog
 ```
